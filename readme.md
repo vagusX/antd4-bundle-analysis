@@ -3,12 +3,13 @@
 > base on umi create template
 
 ## Before
+> use antd v3
 
 ![webpack bundle](assets/before.png)
 
 ## After
 
-> link antd 4.0.0-.alpha2 locally
+> use antd 4.0.0-.alpha2
 
 ![webpack bundle](assets/after.png)
 
